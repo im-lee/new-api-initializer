@@ -1,6 +1,6 @@
 # NewAPI 一键创建APIKEY项目
 
-一个简单的单页面应用，一键获取 NewAPI 的API KEY，免去复杂注册兑换流程。
+一个简单的单页面应用，一键获取 [NewAPI](https://github.com/QuantumNous/new-api) 的API KEY，免去复杂注册兑换流程。
 
 ## 功能特性
 
