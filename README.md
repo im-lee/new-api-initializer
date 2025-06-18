@@ -6,6 +6,7 @@
 
 - 一键获取API Key
 - 易于部署
+![image](https://github.com/user-attachments/assets/551e55d6-f84f-4b9e-9ca2-fb7f191f83c3)
 
 ## 部署步骤
 
